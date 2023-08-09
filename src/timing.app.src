@@ -5,7 +5,7 @@
     kernel,
     stdlib,
     bear,
-    hdr_histogram_erl
+    hdr_histogram
   ]},
   {env, []}
 ]}.
