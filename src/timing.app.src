@@ -3,7 +3,9 @@
   {vsn, "0.1.3"},
   {applications, [
     kernel,
-    stdlib
+    stdlib,
+    bear,
+    hdr_histogram_erl
   ]},
   {env, []}
 ]}.
